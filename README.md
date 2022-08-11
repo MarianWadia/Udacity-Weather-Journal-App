@@ -19,7 +19,7 @@ You can use this project eaisly after downlodaing it by navigating project folde
 
 ## Installation
 you can install this project either by:
-* clonning the remote repository to your local machine so that you can follow along. To clone, you can use `(git clone https://github.com/MarianWadia/Udacity-Landing-page.git)` command on your terminal. When you clone a remote repository, you get an identical copy locally, where you can make desired changes.
+* clonning the remote repository to your local machine so that you can follow along. To clone, you can use `(https://github.com/MarianWadia/Udacity-Weather-Journal-App.git)` command on your terminal. When you clone a remote repository, you get an identical copy locally, where you can make desired changes.
 * Fork the remote repository to your own online account. When you fork a remote repository, a new duplicate copy of the remote repository is created in your account.
 
 ## Project Dependencies
