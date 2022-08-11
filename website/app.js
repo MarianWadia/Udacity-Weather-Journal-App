@@ -4,10 +4,7 @@
 const baseUrl = "http://api.openweathermap.org/data/2.5/forecast?zip=";
 
 // Personal API Key for OpenWeatherMap API
-const apiKey = "&appid=5e8fb36be5e7207d23935ab9db67f1fe";
-
-//data from dom entered by user
-
+const apiKey = "&appid=5e8fb36be5e7207d23935ab9db67f1fe&units=metric";
 
 // Create a new date instance dynamically with JS
 let d = new Date();
